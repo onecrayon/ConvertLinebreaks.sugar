@@ -1,0 +1,4 @@
+"com.onecrayon.sugar.linebreaks.header.title" = "Convert Linebreaks To:";
+"com.onecrayon.sugar.linebreaks.unix.title" = "Unix (LF)";
+"com.onecrayon.sugar.linebreaks.mac.title" = "Mac (CR)";
+"com.onecrayon.sugar.linebreaks.windows.title" = "Windows (CRLF)";

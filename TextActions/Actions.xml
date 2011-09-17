@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<action-recipes>
+	
+	<action id="com.onecrayon.sugar.linebreaks.header" category="actions.text.important/actions.text.generic/actions.text.convert/actions.text.convertlinebreaks/0">
+		<script>placeholder</script>
+	</action>
+
+	<action id="com.onecrayon.sugar.linebreaks.unix" category="actions.text.important/actions.text.generic/actions.text.convert/actions.text.convertlinebreaks/1">
+		<script>convert_linebreaks.js</script>
+		<setup>
+			<type>unix</type>
+		</setup>
+	</action>
+	
+	<action id="com.onecrayon.sugar.linebreaks.mac" category="actions.text.important/actions.text.generic/actions.text.convert/actions.text.convertlinebreaks/2">
+		<script>convert_linebreaks.js</script>
+		<setup>
+			<type>mac</type>
+		</setup>
+	</action>
+	
+	<action id="com.onecrayon.sugar.linebreaks.windows" category="actions.text.important/actions.text.generic/actions.text.convert/actions.text.convertlinebreaks/3">
+		<script>convert_linebreaks.js</script>
+		<setup>
+			<type>windows</type>
+		</setup>
+	</action>
+
+</action-recipes>
