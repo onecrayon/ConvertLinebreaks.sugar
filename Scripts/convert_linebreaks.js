@@ -16,7 +16,7 @@ action.performWithContext = function(context, outError) {
 		target = /(?:\r\n|\n)/g;
 		replacement = '\r';
 	} else if (type === 'windows') {
-		target = /(?:\r|\n)/g;
+		target = /(?:\r\n|\r|\n)/g;
 		replacement = '\r\n';
 	}
 	var bounds = new Range(0, context.string.length);
