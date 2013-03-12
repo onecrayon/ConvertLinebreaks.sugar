@@ -4,7 +4,7 @@ This Sugar adds three commands in the **Actions&rarr;Convert/Strip** menu to con
 
 ## Installation
 
-**Requires Espresso 2.0.**
+**Requires Espresso 2.1**
 
 The easiest way to install ConvertLinebreaks.sugar is directly from GitHub:
 
@@ -15,7 +15,7 @@ Relaunch Espresso after installing the Sugar to gain access to its actions.
 
 ## MIT License
 
-Copyright (c) 2011 Ian Beck
+Copyright (c) 2011-2013 Ian Beck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
