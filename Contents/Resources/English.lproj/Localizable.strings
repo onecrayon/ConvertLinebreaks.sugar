@@ -2,3 +2,4 @@
 "com.onecrayon.sugar.linebreaks.unix.title" = "Unix (LF)";
 "com.onecrayon.sugar.linebreaks.mac.title" = "Mac (CR)";
 "com.onecrayon.sugar.linebreaks.windows.title" = "Windows (CRLF)";
+"com.onecrayon.sugar.linebreaks.empty.title" = "Lonely Linebreaks";

@@ -25,5 +25,11 @@
 			<type>windows</type>
 		</setup>
 	</action>
+	
+	<!-- Clean up empty lines -->
+	
+	<action id="com.onecrayon.sugar.linebreaks.empty" category="actions.text.generic/actions.text.convert/actions.text.convertlinebreaks/4">
+		<script>clean_empty_lines.js</script>
+	</action>
 
 </action-recipes>
