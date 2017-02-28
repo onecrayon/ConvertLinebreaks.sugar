@@ -1,6 +1,6 @@
 # ConvertLinebreaks.sugar
 
-This Sugar adds three commands in the **Actions&rarr;Convert/Strip** menu to convert all the linebreaks in the frontmost document to either Unix, Windows, or Mac-style linebreaks.
+This Sugar adds three commands in the **Actions&rarr;Convert/Strip** menu to convert all the linebreaks in the frontmost document to either Unix, Windows, or Mac-style linebreaks. There is also an action to make your linebreaks lonely (strip all non-linebreak whitespace from empty lines).
 
 ## Installation
 
@@ -15,7 +15,7 @@ Relaunch Espresso after installing the Sugar to gain access to its actions.
 
 ## MIT License
 
-Copyright (c) 2011-2013 Ian Beck
+Copyright (c) 2011-2017 Ian Beck
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
